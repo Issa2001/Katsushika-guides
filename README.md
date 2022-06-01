@@ -2,7 +2,7 @@
 # Katsushika Hosting/Deploy Guides
 
 ## 💻 [Self-hosting-Guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Self-hosting-guides.md)
-## ☁️ [Heroku-Deploy-guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Heroku-Deploy-guide.md) 
-## 💚 [Mongo-Atlas-guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Mongo-Atlas-guide.md)
-## ⚡ [Sticker-Feature-guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Sticker-feature-guide.md)
+## ☁️ [Heroku-Deploy-Guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Heroku-Deploy-guide.md) 
+## 💚 [Mongo-Atlas-Guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Mongo-Atlas-guide.md)
+## ⚡ [Sticker-Feature-Guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Sticker-Feature-guide.md)
 ## 🤖  [ChatBot_Url_Guide](https://github.com/Issa2001/Katsushika-guides/blob/main/Chat_Bot_Url.md)
